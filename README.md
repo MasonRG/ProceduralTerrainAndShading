@@ -5,6 +5,10 @@ This project is made using Unity 2018.2.14f1 for the CSC 305: Introduction to Co
 Particular thanks is given to Sebastian Lague (link to resources below) who has provided superb tutorials and guided videos on much of the topics investigated in this assignment.
 
 ----
+## Demonstration Video
+[![Demonstration](https://img.youtube.com/vi/TZ-Pda7GPaQ/0.jpg)](https://www.youtube.com/watch?v=TZ-Pda7GPaQ "Procedural Terrain Demonstration")
+
+----
 ## Some features of this project are listed briefly here:
 
 - Customizable within the Unity Editor, with dynamic updating as changes are made
